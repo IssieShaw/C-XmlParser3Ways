@@ -1,0 +1,15 @@
+C:\Users\UKGC\Source\Repos\C-XmlParser3Ways\XmlParser\bin\Debug\net6.0\XmlParser.exe
+C:\Users\UKGC\Source\Repos\C-XmlParser3Ways\XmlParser\bin\Debug\net6.0\XmlParser.deps.json
+C:\Users\UKGC\Source\Repos\C-XmlParser3Ways\XmlParser\bin\Debug\net6.0\XmlParser.runtimeconfig.json
+C:\Users\UKGC\Source\Repos\C-XmlParser3Ways\XmlParser\bin\Debug\net6.0\XmlParser.dll
+C:\Users\UKGC\Source\Repos\C-XmlParser3Ways\XmlParser\bin\Debug\net6.0\XmlParser.pdb
+C:\Users\UKGC\Source\Repos\C-XmlParser3Ways\XmlParser\obj\Debug\net6.0\XmlParser.csproj.AssemblyReference.cache
+C:\Users\UKGC\Source\Repos\C-XmlParser3Ways\XmlParser\obj\Debug\net6.0\XmlParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UKGC\Source\Repos\C-XmlParser3Ways\XmlParser\obj\Debug\net6.0\XmlParser.AssemblyInfoInputs.cache
+C:\Users\UKGC\Source\Repos\C-XmlParser3Ways\XmlParser\obj\Debug\net6.0\XmlParser.AssemblyInfo.cs
+C:\Users\UKGC\Source\Repos\C-XmlParser3Ways\XmlParser\obj\Debug\net6.0\XmlParser.csproj.CoreCompileInputs.cache
+C:\Users\UKGC\Source\Repos\C-XmlParser3Ways\XmlParser\obj\Debug\net6.0\XmlParser.dll
+C:\Users\UKGC\Source\Repos\C-XmlParser3Ways\XmlParser\obj\Debug\net6.0\refint\XmlParser.dll
+C:\Users\UKGC\Source\Repos\C-XmlParser3Ways\XmlParser\obj\Debug\net6.0\XmlParser.pdb
+C:\Users\UKGC\Source\Repos\C-XmlParser3Ways\XmlParser\obj\Debug\net6.0\XmlParser.genruntimeconfig.cache
+C:\Users\UKGC\Source\Repos\C-XmlParser3Ways\XmlParser\obj\Debug\net6.0\ref\XmlParser.dll
